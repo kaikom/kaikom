@@ -1,7 +1,7 @@
                                                                 
-### Kai (海) Komnenovic : UBC BA CPSC
+### Kai (海) Komnenovic : he\him : UBC BA CPSC
 
-this is a test
+this is no longer a test
 
 
 <!--
