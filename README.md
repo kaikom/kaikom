@@ -1,5 +1,5 @@
                                                                 
-### Kai Komnenovic : UBC BA CPSC
+### Kai (海) Komnenovic : UBC BA CPSC
 
 this is a test
 
